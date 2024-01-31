@@ -12,6 +12,12 @@ Please note that this repository is actively maintained. While the scripts provi
 
 For any inquiries or contributions, feel free to create issue, though response times may be delayed. Thank you for understanding.
 
+## List of Codes Commited
+
+1. [Bing URL Extractor](https://github.com/justforcv/randomcodes/blob/main/bingurlextract/Readme.md)
+
+
+---
 
 ## Stay vigilant and safe in your cyber explorations.
 
